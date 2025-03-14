@@ -1,5 +1,5 @@
 # AlgoVisu
-Visit the live demo at [DEMO](https://algovisu.netlify.app)
+Visit the live demo at [DEMO](https://algovisu.netlify.app) \n
 AlgoVisu is a web application built with Vite, React, and CSS to visualize algorithms. It uses `shadcn/ui` for components and `framer-motion` for animations. The app includes sorting algorithms, searching algorithms, graph algorithms, dynamic programming problems like Longest Common Subsequence (LCS), a combination solver, and subset problems.
 
 ## Features
