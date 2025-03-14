@@ -7,8 +7,8 @@ AlgoVisu is a web application built with Vite, React, and CSS to visualize algor
 ## Features
 
 - **Sorting Algorithms**: Visualize Bubble Sort and Insertion Sort with animated bars.
-- **Searching Algorithms**: See Binary Search find targets in an array.
-- **Graph Algorithms**: Watch Dijkstra’s algorithm find the shortest path on a grid.
+- **Searching Algorithms**: See Binary Search and Linear search find targets in an array.
+- **Graph Algorithms**: Watch Dijkstra’s algorithm  and A* find the shortest path on a grid.
 - **Dynamic Programming**: Explore Longest Common Subsequence (LCS) and other DP solutions.
 - **Combination Solver**: Generate combinations with step-by-step visuals.
 - **Subset Problems**: Solve subset sum and similar problems with clear animations.
